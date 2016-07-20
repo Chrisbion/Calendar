@@ -1,2 +1,2 @@
 # Calendar
-Calendar web application using Angular.JS
+Sample Calendar web application using Angular.JS
